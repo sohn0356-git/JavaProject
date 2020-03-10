@@ -1,4 +1,4 @@
-package kr.co.fastcampus.eatgo;
+package com.fastcampus.project3.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class EatgoApplicationTests {
+public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
