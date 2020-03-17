@@ -16,6 +16,9 @@ public class Restaurant {
         this.address = address;
     }
 
+    public Restaurant() {
+    }
+
     public String getName() {
         return name;
     }
